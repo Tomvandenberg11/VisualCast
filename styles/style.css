@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: salmon;
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    display: block;
+    margin: 50px auto;
+    width: 70%;
+}
+
+section div {
+    display: table;
+    margin: 0 auto;
+}
+
+section h1 {
+    font-size: 48px;
+    margin-bottom: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+section button {
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: royalblue;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.76);
+    border: 1px solid black;
+    transition: transform .3s;
+}
+
+section button:hover {
+    transform: scale(1.03);
+    cursor: pointer;
+}
+
+section button:first-of-type {
+    margin-right: 40px;
+}
+
+.record {
+    display: flex;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.record img {
+    height: 50px;
+}
+
+.none {
+    display: none;
+}
+
+iframe {
+    margin-top: 100px;
+}
+
+section p {
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
