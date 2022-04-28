@@ -28,11 +28,25 @@ Snelheid van de podcast kunnen aanpassen? Laat goed zien wie er aan het woord is
 
 Onderzoek naar ondertitelingen voor doven => BBC heeft goede richtlijnen.
 
+
+Spreektaal is niet hetzelfde als leestaal.
+
+Design podcast? Kook podcast?
+Verschillende kleuren en lettertypes.
+snelheid van podcasts zelf bepalen
+
+
 #### Idee 
 Korte podcast uitschrijven met emoties en voice-overs bijvoorbeeld.
 
 #### Handig:
 - https://uxplanet.org/podcasts-for-the-deaf-d4d9b5f3ce99
+- https://www.temi.com/blog/podcast-transcription/
+- https://www.thisamericanlife.org/542/transcript
+
+## Prototypes
+#### Eerste prototype
+Gebouwd transcriptie met podcasts.
 
 ## Licence 👨🏻‍⚖️
 
