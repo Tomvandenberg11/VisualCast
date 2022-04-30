@@ -1,7 +1,4 @@
 # VisualCast
-
-https://www.figma.com/file/ULHFYRCsPAdRCFoixma86Y/Human-Centered-Design?node-id=0%3A1
-
 ## Inhoudsopgave
 
 - [User story](#user-story-)
@@ -17,7 +14,23 @@ Hoe werkt een podcast voor Marie? In een transcriptie gaat natuurlijk nogal wat 
 
 Hoe werken closed captions voor Marie? Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan.
 
+### Opdracht
+- Study situation
+- Ignore conventions
+- Prioritise identity
+- Add nonsens
+
 ## Test bevindingen 🧪
+
+### Concept voor eerste test
+Een website waarbij er met behulp van JavaScript de podcast live wordt getranscribeerd. Hierdoor kan de snelheid van de podcast goed worden aangepast en kan elke podcast gekozen worden.
+
+Dit voorbeeld is hier te zien: https://tomvandenberg11.github.io/VisualCast/transcription/
+
+Dit concept heb ik na de eerste test afgeschoten omdat de transcriptie niet goed werkt. Ik kan hierbij ook niet laten zien welk persoon er aan het woord is. Na de eerste test kwam ik er ook achter dat de opdracht geen werkende applicatie hoeft te zijn, maar meer een concept, uitgewerkt in code.
+
+Daarom heb ik er dus voor gekozen om een ander concept te maken waarbij meer rekening wordt gehouden met de belangrijke punten van Marie, bijvoorbeeld door de nuances meer naar boven te laten komen.
+
 ### Bevindingen eerste test
 Bij de eerste test hebben we Marie vooral beter leren kennen. Zo hebben we gehoord wat ze doet in het daglijks leven en welke hobbies ze heeft. 
 Daarna hebben we veel tips gehad over hoe we verder konden. 
@@ -40,18 +53,25 @@ Ideeen voor concept:
 - Laten zien waar de spreker is in de tekst, bijvoorbeeld met een kleur. => Speel met de stijlen en vormgeving. 
 - Beter teveel dan te weinig!!!!!
 
+### Concept voor tweede test
+Voor de tweede test heb ik een ander ontwerp gemaakt. Hierbij is beter te zien welk persoon van de podcast welke tekst zegt en hoe ver ze zijn in het verhaal.
 
-#### Concept voor eerste test
-Een website waarbij er met behulp van JavaScript de podcast live wordt getranscribeerd. Hierdoor kan de snelheid van de podcast goed worden aangepast en kan elke podcast gekozen worden.
+SCREENSHOT
 
-Dit voorbeeld is hier te zien: https://tomvandenberg11.github.io/VisualCast/transcription/
+### Bevindingen tweede test
+Misschien het concept animeren door de tekst te laten bewegen. Ook is het niet nodig om steeds de foto's van de sprekers elke keer in te voegen, 1 keer is genoeg.
+Ook meer spelen met lettertypes en kleuren in de tekst. Nu is het gewoon platte tekst, waardoor de emoties niet te zien zijn. Misschien een kleine intro van de podcast toevoegen, waar de podcast over gaat.
+Eventuele achtergrondgeluiden erbij betrekken. Stiltes in gesprekken ook goed weergeven!
 
-Dit concept heb ik na de eerste test afgeschoten omdat de transcriptie niet goed werkt. Ik kan hierbij ook niet laten zien welk persoon er aan het woord is. Na de eerste test kwam ik er ook achter dat de opdracht geen werkende applicatie hoeft te zijn, maar meer een concept, uitgewerkt in code.
+Misschien klein stukje uitwerken waarbij de werking echt te zien is.
+Nederlandse podcast uitkiezen misschien.
 
-Daarom heb ik er dus voor gekozen om een ander concept te maken waarbij meer rekening wordt gehouden met de belangrijke punten van Marie, bijvoorbeeld door de nuances meer naar boven te laten komen.
+Laten zien aan het begin welke personen er in de podcast zitten met daarbij de eigenschappen van de stemmen.
+Mobile first!! Meer nuances geven, bijvoorbeeld met laten zien wanneer er stiltes zijn en bijvoorbeeld met accenten. 
+
 
 ## Concepten 💡
-#### Eerste concept
+### Eerste concept
 Een website waarbij er met behulp van JavaScript de podcast live wordt getranscribeerd. Hierdoor kan de snelheid van de podcast goed worden aangepast en kan elke podcast gekozen worden.
 
 Dit voorbeeld is hier te zien: https://tomvandenberg11.github.io/VisualCast/transcription/
