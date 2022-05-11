@@ -42,16 +42,16 @@ De verschillende tips waren bijvoorbeeld:
 - Zorg dat er te zien is met welke emoties er worden gesproken en met welke snelheid er iets gezegd wordt.
 - Het is fijn om in films te horen welke omgevingsgeluiden er zijn. Dit mag meer specifieker, omdat het geluid in de film altijd een nut heeft.
 - Laat goed zien wie er aan het woord is en wat de emotie van het gesprek is.
-- Onderzoek naar ondertitelingen voor doven => BBC heeft goede richtlijnen.
+- Onderzoek naar ondertitelingen voor doven → BBC heeft goede richtlijnen.
 
 
-Ideeen voor concept:
+Ideeën voor concept:
 
 - Snelheid van de podcast kunnen aanpassen? 
 - Sferen, stijlen. Bijvoorbeeld verschillende lettertypen. 
 - Laat stiltes in zinnen ook zien. 
 - Laten zien waar de spreker is in de tekst, bijvoorbeeld met een kleur. => Speel met de stijlen en vormgeving. 
-- Beter teveel dan te weinig!!!!!
+- Beter teveel dan te weinig!
 
 ### Concept voor tweede test
 Voor de tweede test heb ik een ander ontwerp gemaakt. Hierbij is beter te zien welk persoon van de podcast welke tekst zegt en hoe ver ze zijn in het verhaal.
@@ -67,8 +67,10 @@ Misschien klein stukje uitwerken waarbij de werking echt te zien is.
 Nederlandse podcast uitkiezen misschien.
 
 Laten zien aan het begin welke personen er in de podcast zitten met daarbij de eigenschappen van de stemmen.
-Mobile first!! Meer nuances geven, bijvoorbeeld met laten zien wanneer er stiltes zijn en bijvoorbeeld met accenten. 
+Mobile first! Meer nuances geven, bijvoorbeeld met laten zien wanneer er stiltes zijn en bijvoorbeeld met accenten. 
 
+### Concept derde test
+Voor deze test had ik helaas niet heel veel tijd om aanpassingen te doen. Het laatste gesprek met Marie was op vrijdag, dus we hebben 
 
 ## Concepten 💡
 ### Eerste concept

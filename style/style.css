@@ -13,6 +13,7 @@ body {
     width: 100vw;
     position: relative;
     font-family: 'Poppins', sans-serif;
+    overflow: hidden;
 }
 
 .container {
@@ -23,12 +24,14 @@ body {
 
 
 
+/****** TEXTCONTAINER ******/
 
 .textContainer {
     width: 70vw;
     padding: 50px 30px 0 50px;
     overflow-y: scroll;
     margin-bottom: 30px;
+    position: relative;
 }
 
 .textBalloon {
@@ -45,23 +48,6 @@ body {
     margin-bottom: 0;
 }
 
-.textBalloon div {
-    margin-right: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.textBalloon img {
-    width: 100px;
-    height: 100px;
-    object-fit: cover;
-    object-position: top;
-    border-radius: 50%;
-    border: 1px solid black;
-    margin-bottom: 10px;
-}
-
 .textBalloon h4 {
     white-space: nowrap;
 }
@@ -75,13 +61,19 @@ body {
 
 
 
-
+/****** OVERVIEW ******/
 .overviewContainer {
     height: 100%;
     width: 30vw;
     padding-top: 20px;
     padding-left: 20px;
     padding-right: 20px;
+}
+
+.overviewContainer div {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
 }
 
 .overviewContainer ul li {
@@ -93,6 +85,29 @@ body {
     text-decoration: underline;
 }
 
+.personInfo {
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.personInfo img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.mobileOverview {
+    display: none;
+}
+
+
+/****** CONTROLS ******/
 
 .podcastContainer {
     position: fixed;
@@ -105,8 +120,6 @@ body {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     display: flex;
-    padding-left: 50px;
-    padding-right: 50px;
     box-shadow: 0 0 5px #333;
 }
 
@@ -114,6 +127,7 @@ body {
     display: flex;
     align-items: center;
     width: 50%;
+    margin-left: 50px;
 }
 
 .podcastInfo img {
@@ -121,6 +135,23 @@ body {
     margin-right: 30px;
     border-radius: 5px;
     box-shadow: 0 0 5px #000;
+}
+
+.podcastInfo h1 {
+    display: flex;
+}
+
+.podcastInfo h1 span {
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    margin-left: 10px;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    font-size: 22px;
 }
 
 .controlsContainer {
@@ -181,26 +212,100 @@ body {
     margin-right: 0;
 }
 
+.showPodcast {
+    width: 50px;
+    position: fixed;
+    bottom: 165px;
+    right: 20px;
+    box-shadow: 0 0 5px #333;
+    border-radius: 50%;
+    display: none;
+}
+
+.show {
+    transform: translateY(0) !important;
+    transition: transform 1s;
+}
+
+.close {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.close img {
+    width: 40px;
+}
 
 
+/****** MEDIA QUERIES ******/
 
 @media only screen and (max-width: 900px) {
     .overviewContainer {
         display: none;
     }
     .textContainer {
-        width: 100vw;
+        width: 90%;
+        margin: 0 auto;
+        padding: 20px 0;
     }
-    .podcastInfo h1 {
-        font-size: 18px;
+    .podcastInfo {
+        display: none;
     }
-    .podcastInfo h2 {
-        font-size: 14px;
+    .controlsContainer {
+        width: 90%;
+        margin: 0 auto;
     }
     .touchControls img {
         width: 30px;
         height: 30px;
         margin-right: 10px;
+    }
+    .mobileOverview {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background-color: white;
+        transform: translateY(200vh);
+        transition: transform 1s;
+    }
+    .mobileOverview .podcastInfo {
+        display: flex;
+        width: 90%;
+        margin: 70px auto 0;
+        border-bottom: 1px solid black;
+        padding-bottom: 20px;
+        justify-content: space-between;
+    }
+    .mobileOverview .podcastInfo img {
+        width: 100px;
+    }
+    .mobileOverview .podcastInfo h1 {
+        font-size: 24px;
+    }
+    .mobileOverview .podcastInfo h2 {
+        font-size: 20px;
+        margin-left: 0;
+    }
+    .mobileOverview .personContainer {
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+    }
+    .mobileOverview h2 {
+        margin-left: 20px;
+    }
+    .mobileOverview ul {
+        padding: 20px;
+    }
+    .mobileOverview ul li {
+        list-style-type: none;
+    }
+    .showPodcast {
+        display: block;
     }
 }
 
