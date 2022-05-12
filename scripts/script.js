@@ -6,7 +6,7 @@ const close = document.querySelector('.close')
 
 const playButton = document.querySelector(".playButton")
 
-// podcast.scrollTop = podcast.scrollHeight;
+podcast.scrollTop
 
 showPodcast.addEventListener("click", () => {
   mobileOverview.classList.add('show')
