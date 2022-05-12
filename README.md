@@ -1,5 +1,15 @@
 # VisualCast
-UITLEGJE
+Welkom bij mij project van Human Centered Design. Bij dit vak is het de bedoeling dat we een applicatie gaan maken voor 1 specifiek iemand met een beperking. Deze applicatie is gemaakt voor Marie.
+
+Marie wilt graag een podcast lezen zonder hierbij de nuances te verliezen.
+
+Het concept is [hier](https://tomvandenberg11.github.io/VisualCast/ "VisualCast") te zien.
+
+### Mobiel ontwerp
+![Screenshot mobile](images/screenshot_mobile.png)
+
+### Desktop ontwerp
+![Screenshot desktop](images/screenshot_desktop.png)
 
 ## Inhoudsopgave
 
@@ -129,7 +139,7 @@ Na de test heb ik meerdere nuances, zoals de emotie, stilte en nadruk, laten zie
 ## Uiteindelijke concept 💡
 Het concept wat ik uiteindelijk heb gemaakt is een transcriptie van een podcast. De podcast wordt hierbij op snelheid naar keuze laten zien. De nuances in de gesprekken worden laten zien. Ook is er secundaire informatie te zien, zoals eigenschappen over de sprekers en een inhoudsopgave. 
 
-Het concept is [hier](https://tomvandenberg11.github.io/VisualCast/ "VisualCast") te zien
+Het concept is [hier](https://tomvandenberg11.github.io/VisualCast/ "VisualCast") te zien.
 
 ## Bronnen:
 - https://uxplanet.org/podcasts-for-the-deaf-d4d9b5f3ce99
