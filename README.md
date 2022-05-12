@@ -12,7 +12,14 @@ Het concept is [hier](https://tomvandenberg11.github.io/VisualCast/ "VisualCast"
 ![Screenshot desktop](images/screenshot_desktop.png)
 
 ## Inhoudsopgave ✍🏼
-
+- [User story ⏳](#user-story-)
+- [User scenario 🎞](#user-scenario-)
+- [Exclusive design principles ⚠️](#exclusive-design-principles-%EF%B8%8F)
+- [Testen 🧪](#testen-)
+- [Uiteindelijke concept 💡](#uiteindelijke-concept-)
+- [Bronnen ℹ️](#bronnen-)
+- [Licence 👨🏻‍⚖️](#licence-%EF%B8%8F)
+- [Credits 📣](#credits-)
 
 ## User story ⏳
 Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpel gezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
@@ -141,7 +148,7 @@ Het concept wat ik uiteindelijk heb gemaakt is een transcriptie van een podcast.
 
 Het concept is [hier](https://tomvandenberg11.github.io/VisualCast/ "VisualCast") te zien.
 
-## Bronnen:
+## Bronnen ℹ️
 - https://uxplanet.org/podcasts-for-the-deaf-d4d9b5f3ce99
 - https://www.temi.com/blog/podcast-transcription/
 - https://www.thisamericanlife.org/542/transcript
