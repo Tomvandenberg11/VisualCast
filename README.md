@@ -11,7 +11,7 @@ Het concept is [hier](https://tomvandenberg11.github.io/VisualCast/ "VisualCast"
 ### Desktop ontwerp
 ![Screenshot desktop](images/screenshot_desktop.png)
 
-## Inhoudsopgave 
+## Inhoudsopgave ✍🏼
 
 
 ## User story ⏳
@@ -23,7 +23,7 @@ Hoe werken closed captions voor Marie? Voor Marie gaat er enorm veel nuance verl
 
 Ik heb besloten om er zo goed mogelijk voor te zorgen dat Marie op een voor haar fijne manier een podcast kan lezen, zonder dat daar nuance aan verloren gaat.
 
-## User scenario
+## User scenario 🎞
 **Wie is de gebruiker?**
 
 De applicatie wordt gemaakt voor Marie. Marie is Doof en kan dus geen podcasts luisteren. Ze wilt podcasts kunnen lezen zonder dat de nuance van de gesprekken verloren gaat.
@@ -40,7 +40,7 @@ De gebruiker kan op start klikken, waarna de podcast alinea voor alinea tevoorsc
 
 De gebruiker gebruikt mijn applicatie omdat deze speciaal voor haar gemaakt is, omdat er nog geen andere platformen zijn zoals deze.
 
-## Exclusive design principles
+## Exclusive design principles ⚠️
 
 ### Study situation
 Studie Situation houdt in dat je onderzoek doet naar je gebruiker. Wat kan de gebruiker wel of niet? 
@@ -109,7 +109,7 @@ Daarom heb ik er dus voor gekozen om een ander concept te maken waarbij meer rek
 ### Concept voor tweede test
 Voor de tweede test heb ik een ander ontwerp gemaakt. Hierbij is beter te zien welk persoon van de podcast welke tekst zegt en hoe ver ze zijn in het verhaal.
 
-SCREENSHOT
+<img src="images/screenshot_before.png" alt="Screenshot before" width="300"/>
 
 ### Bevindingen tweede test
 Misschien het concept animeren door de tekst te laten bewegen. Ook is het niet nodig om steeds de foto's van de sprekers elke keer in te voegen, 1 keer is genoeg.
@@ -128,7 +128,7 @@ Voor deze test had ik helaas niet heel veel tijd om aanpassingen te doen. Het la
 Ik heb nog een aantal kleine dingen aangepast. Zo zei Marie in de laatste test dat ze vooral op haar telefoon podcasts las. Daarom heb ik de pagina omgebouwd naar mobile, door alle informatie ook op mobiel te tonen.
 Ze zei ook dat ze niet elke keer de foto van de sprekers hoeft te zien, deze heb ik dus weggehaald, zodat er minder afleiding is.
 
-SCREENSHOT
+<img src="images/screenshot_mobile.png" alt="Screenshot mobile" width="300"/>
 
 ### Bevindingen derde test
 Zo vond het nieuwe tabje met de secundaire informatie een goede oplossing en vond het dus goed dat de applicatie ook mobiel ondersteund wordt. Ze wilde alleen wel meerdere nuances zien, met daarin de emoties en de stiltes. Ook ga ik nog toevoegen dat de eigenschappen van de stemmen van de sprekers te zien zijn.
