@@ -1,4 +1,6 @@
 # VisualCast
+UITLEGJE
+
 ## Inhoudsopgave
 
 
@@ -57,16 +59,14 @@ Add nonsense betekent het toevoegen van dingen die niet gebruikelijk zijn op web
 
 Ik heb dit in eerdere versies toegepast, door bijvoorbeeld lettertypes te gebruiken waarmee de emotie werd aangegeven, maar Marie vond dit te veel afleiden. Daar heb ik dus niet voor gekozen.
 
-## Test bevindingen 🧪
+## Testen 🧪
+
+Ik heb in totaal drie keer getest met Marie. Hierbij liet ik elke keer mijn concept zien, waarna Marie door het concept heen liep. Tijdens en na het testen zei ze wat ze goed vond en wat ze niet goed vond. 
 
 ### Concept voor eerste test
 Een website waarbij er met behulp van JavaScript de podcast live wordt getranscribeerd. Hierdoor kan de snelheid van de podcast goed worden aangepast en kan elke podcast gekozen worden.
 
 Dit voorbeeld is hier te zien: https://tomvandenberg11.github.io/VisualCast/transcription/
-
-Dit concept heb ik na de eerste test afgeschoten omdat de transcriptie niet goed werkt. Ik kan hierbij ook niet laten zien welk persoon er aan het woord is. Na de eerste test kwam ik er ook achter dat de opdracht geen werkende applicatie hoeft te zijn, maar meer een concept, uitgewerkt in code.
-
-Daarom heb ik er dus voor gekozen om een ander concept te maken waarbij meer rekening wordt gehouden met de belangrijke punten van Marie, bijvoorbeeld door de nuances meer naar boven te laten komen.
 
 ### Bevindingen eerste test
 Bij de eerste test hebben we Marie vooral beter leren kennen. Zo hebben we gehoord wat ze doet in het daglijks leven en welke hobbies ze heeft. 
@@ -90,6 +90,12 @@ Ideeën voor concept:
 - Laten zien waar de spreker is in de tekst, bijvoorbeeld met een kleur. → Speel met de stijlen en vormgeving. 
 - Beter teveel dan te weinig!
 
+
+Dit concept heb ik na de eerste test afgeschoten omdat de transcriptie niet goed werkt. Ik kan hierbij ook niet laten zien welk persoon er aan het woord is. Na de eerste test kwam ik er ook achter dat de opdracht geen werkende applicatie hoeft te zijn, maar meer een concept, uitgewerkt in code.
+
+Daarom heb ik er dus voor gekozen om een ander concept te maken waarbij meer rekening wordt gehouden met de belangrijke punten van Marie, bijvoorbeeld door de nuances meer naar boven te laten komen.
+
+
 ### Concept voor tweede test
 Voor de tweede test heb ik een ander ontwerp gemaakt. Hierbij is beter te zien welk persoon van de podcast welke tekst zegt en hoe ver ze zijn in het verhaal.
 
@@ -112,20 +118,25 @@ Voor deze test had ik helaas niet heel veel tijd om aanpassingen te doen. Het la
 Ik heb nog een aantal kleine dingen aangepast. Zo zei Marie in de laatste test dat ze vooral op haar telefoon podcasts las. Daarom heb ik de pagina omgebouwd naar mobile, door alle informatie ook op mobiel te tonen.
 Ze zei ook dat ze niet elke keer de foto van de sprekers hoeft te zien, deze heb ik dus weggehaald, zodat er minder afleiding is.
 
+SCREENSHOT
+
 ### Bevindingen derde test
-Zo vond het nieuwe tabje met de secundaire informatie een goede oplossing. Ze wilde alleen wel meerdere nuances zien, met daarin de emoties en de stiltes. Ook ga ik nog toevoegen dat de eigenschappen van de stemmen van de sprekers te zien zijn.
+Zo vond het nieuwe tabje met de secundaire informatie een goede oplossing en vond het dus goed dat de applicatie ook mobiel ondersteund wordt. Ze wilde alleen wel meerdere nuances zien, met daarin de emoties en de stiltes. Ook ga ik nog toevoegen dat de eigenschappen van de stemmen van de sprekers te zien zijn.
 Misschien de tekst animeren. Lettertype veranderen naar een meer leesbaarder lettertype en spelen met de lettertypes en kleuren naar emoties.
 
-## Concepten 💡
-### Eerste concept
-Een website waarbij er met behulp van JavaScript de podcast live wordt getranscribeerd. Hierdoor kan de snelheid van de podcast goed worden aangepast en kan elke podcast gekozen worden.
+Na de test heb ik meerdere nuances, zoals de emotie, stilte en nadruk, laten zien in het ontwerp. Ook is de applicatie nu geanimeerd, zodat echt te zien is hoe het in z'mn werk gaat.
 
-Dit voorbeeld is hier te zien: https://tomvandenberg11.github.io/VisualCast/transcription/
+## Uiteindelijke concept 💡
+Het concept wat ik uiteindelijk heb gemaakt is een transcriptie van een podcast. De podcast wordt hierbij op snelheid naar keuze laten zien. De nuances in de gesprekken worden laten zien. Ook is er secundaire informatie te zien, zoals eigenschappen over de sprekers en een inhoudsopgave. 
 
-#### Handige links:
+Het concept is [hier](https://tomvandenberg11.github.io/VisualCast/ "VisualCast") te zien
+
+## Bronnen:
 - https://uxplanet.org/podcasts-for-the-deaf-d4d9b5f3ce99
 - https://www.temi.com/blog/podcast-transcription/
 - https://www.thisamericanlife.org/542/transcript
+- https://exclusive-design.vasilis.nl/
+- https://www.getfeedback.com/resources/ux/how-user-scenarios-help-to-improve-your-ux/
 
 ## Licence 👨🏻‍⚖️
 
