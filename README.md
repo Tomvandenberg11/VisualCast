@@ -1,11 +1,6 @@
 # VisualCast
 ## Inhoudsopgave
 
-- [User story](#user-story-)
-- [Test bevindingen](#test-bevindingen-)
-- [Concepten](#concepten-)
-- [Licence](#licence-)
-- [Credits](#credits-)
 
 ## User story ⏳
 Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
@@ -14,10 +9,13 @@ Hoe werkt een podcast voor Marie? In een transcriptie gaat natuurlijk nogal wat 
 
 Hoe werken closed captions voor Marie? Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan.
 
-### Opdracht
+## User scenario
+
+## Exclusive design principles
 - Study situation
 - Ignore conventions
 - Prioritise identity
+- Geel, design, koken, boeken lezen, wijn drinken, kitesurfen, sporten
 - Add nonsens
 
 ## Test bevindingen 🧪
@@ -70,7 +68,14 @@ Laten zien aan het begin welke personen er in de podcast zitten met daarbij de e
 Mobile first! Meer nuances geven, bijvoorbeeld met laten zien wanneer er stiltes zijn en bijvoorbeeld met accenten. 
 
 ### Concept derde test
-Voor deze test had ik helaas niet heel veel tijd om aanpassingen te doen. Het laatste gesprek met Marie was op vrijdag, dus we hebben 
+Voor deze test had ik helaas niet heel veel tijd om aanpassingen te doen. Het laatste gesprek met Marie was op vrijdag, dus we hebben geen HCD meer gehad na de laatste test.
+
+Ik heb nog een aantal kleine dingen aangepast. Zo zei Marie in de laatste test dat ze vooral op haar telefoon podcasts las. Daarom heb ik de pagina omgebouwd naar mobile, door alle informatie ook op mobiel te tonen.
+Ze zei ook dat ze niet elke keer de foto van de sprekers hoeft te zien, deze heb ik dus weggehaald, zodat er minder afleiding is.
+
+### Bevindingen derde test
+Zo vond het nieuwe tabje met de secundaire informatie een goede oplossing. Ze wilde alleen wel meerdere nuances zien, met daarin de emoties en de stiltes. Ook ga ik nog toevoegen dat de eigenschappen van de stemmen van de sprekers te zien zijn.
+Misschien de tekst animeren. Lettertype veranderen naar een meer leesbaarder lettertype en spelen met de lettertypes en kleuren naar emoties.
 
 ## Concepten 💡
 ### Eerste concept
