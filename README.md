@@ -3,18 +3,18 @@
 
 
 ## User story ⏳
-Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
+Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpel gezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
 
 Hoe werkt een podcast voor Marie? In een transcriptie gaat natuurlijk nogal wat nuance verloren. Maak een oplossing die minimaal net zo prettig is voor iemand die niet kan luisteren als voor iemand die wel kan luisteren.
 
-Hoe werken closed captions voor Marie? Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan.
+Hoe werken closed captions voor Marie? Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als het maar kan.
 
-Ik heb besloten om er zo goed mogelijk voor te zorgen dat Marie op een voor haar fijne manier een padcast kan lezen, zonder dat daar nuance aan verloren gaat.
+Ik heb besloten om er zo goed mogelijk voor te zorgen dat Marie op een voor haar fijne manier een podcast kan lezen, zonder dat daar nuance aan verloren gaat.
 
 ## User scenario
 **Wie is de gebruiker?**
 
-De applicatie wordt gemaakt vor Marie. Marie is Doof en kan dus geen podcasts luisteren. Ze wilt podcasts kunnen lezen zonder dat de nuance van de gesprekken verloren gaat.
+De applicatie wordt gemaakt voor Marie. Marie is Doof en kan dus geen podcasts luisteren. Ze wilt podcasts kunnen lezen zonder dat de nuance van de gesprekken verloren gaat.
 
 **Wat wilt de gebruiker op mijn applicatie?**
 
@@ -26,7 +26,7 @@ De gebruiker kan op start klikken, waarna de podcast alinea voor alinea tevoorsc
 
 **Waarom komt de gebruiker naar mijn website?**
 
-De gebruiker geruikt mijn applicatie omdat deze speciaal voor haar gemaakt is, omdat er nog geen andere platformen zijn zoals deze.
+De gebruiker gebruikt mijn applicatie omdat deze speciaal voor haar gemaakt is, omdat er nog geen andere platformen zijn zoals deze.
 
 ## Exclusive design principles
 
@@ -36,12 +36,12 @@ Studie Situation houdt in dat je onderzoek doet naar je gebruiker. Wat kan de ge
 Marie is Doof. Alles moet daarom gebeuren zonder geluid. Ik heb een aantal vragen gesteld om meer over haar te weten te komen en om te ontdekken wat ze prettig vind en wat niet. Als er een gesprek is getranscribeerd, is het lastig om nuances te zien. Marie wilt dit graag kunnen zien in de podcasts. Ze wilt graag de emoties in de podcast kunnen zien. Marie kan Nederlands en Engels lezen, dus dit is geen probleem. Maar dit is niet voor iedereen die Doof is het geval. 
 
 ### Ignore conventions
-Ignore conventions betekend dat de gebruikelijke design conventions genegeerd moeten worden, omdat deze conventions gemaakt zijn voor mensen zonder een hinderlijke beperking. Daarom is het belangrijk om rekening te houden met ontwerpen voor de doelgroep.
+Ignore conventions betekend dat de gebruikelijke ontwerp conventions genegeerd moeten worden, omdat deze conventions gemaakt zijn voor mensen zonder een hinderlijke beperking. Daarom is het belangrijk om rekening te houden met ontwerpen voor de doelgroep.
 
 Een horend persoon zou gewoon naar de podcast kunnen luisteren, maar Marie kan dit niet. Daarom heb wordt de podcast getranscribeerd. De nuances en emoties in de podcast gaan verloren in platte tekst. Dit heb ik proberen te laten zien door de emotie van de alinea te laten zien en door de stiltes en nadrukken te highlighten.
 
 ### Prioritise identity
-Prioritise identity betekent dat het design speciaal voor de wensen van de gebruiker gemaakt is. Daarom heb ik een aantal persoonlijke dingen aan de applicatie toegevoegd. Marie is een designer, dus ik heb een design podcast uitgekozen voor de opdracht. Haar favoriete kleur is geel, dus de website heeft verschillende kleuren geel. 
+Prioritise identity betekent dat het ontwerp speciaal voor de wensen van de gebruiker gemaakt is. Daarom heb ik een aantal persoonlijke dingen aan de applicatie toegevoegd. Marie is een designer, dus ik heb een design podcast uitgekozen voor de opdracht. Haar favoriete kleur is geel, dus de website heeft verschillende kleuren geel. 
 
 Een aantal andere dingen die Marie leuk vind zijn: 
 - Koken
@@ -53,7 +53,7 @@ Een aantal andere dingen die Marie leuk vind zijn:
 Marie heeft aangegeven dat ze de podcast het meest op haar telefoon zou lezen. Daarom heb ik ervoor gezorgd dat de applicatie volledig responsive is, en er geen informatie mist op mobiel. Ook heeft ze gezegd dat ze heel snel leest, daarom heb ik een knop toegevoegd waarmee ze de snelheid van de tekst aan kan passen.
 
 ### Add nonsense
-Add nonsense betekent het toevoegen van dingen die niet gebruikelijk zijn op websites. Hierdoor wordt het design méér dan alleen het functionele. Er kunnen nieuwe interessante ideeën opkomen door nonsense toe te passen.
+Add nonsense betekent het toevoegen van dingen die niet gebruikelijk zijn op websites. Hierdoor wordt het ontwerp méér dan alleen het functionele. Er kunnen nieuwe interessante ideeën opkomen door nonsense toe te passen.
 
 Ik heb dit in eerdere versies toegepast, door bijvoorbeeld lettertypes te gebruiken waarmee de emotie werd aangegeven, maar Marie vond dit te veel afleiden. Daar heb ik dus niet voor gekozen.
 
@@ -87,7 +87,7 @@ Ideeën voor concept:
 - Snelheid van de podcast kunnen aanpassen? 
 - Sferen, stijlen. Bijvoorbeeld verschillende lettertypen. 
 - Laat stiltes in zinnen ook zien. 
-- Laten zien waar de spreker is in de tekst, bijvoorbeeld met een kleur. => Speel met de stijlen en vormgeving. 
+- Laten zien waar de spreker is in de tekst, bijvoorbeeld met een kleur. → Speel met de stijlen en vormgeving. 
 - Beter teveel dan te weinig!
 
 ### Concept voor tweede test
