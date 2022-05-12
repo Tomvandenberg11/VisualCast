@@ -6,12 +6,12 @@ Marie wilt graag een podcast lezen zonder hierbij de nuances te verliezen.
 Het concept is [hier](https://tomvandenberg11.github.io/VisualCast/ "VisualCast") te zien.
 
 ### Mobiel ontwerp
-![Screenshot mobile](images/screenshot_mobile.png)
+<img src="images/screenshot_mobile.png" alt="Screenshot mobile" width="300"/>
 
 ### Desktop ontwerp
 ![Screenshot desktop](images/screenshot_desktop.png)
 
-## Inhoudsopgave
+## Inhoudsopgave 
 
 
 ## User story ⏳
