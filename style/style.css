@@ -8,7 +8,7 @@ html {
 }
 
 body {
-    background-color: #F9E2D4;
+    background-color: #ffffa1;
     height: 100vh;
     width: 100vw;
     position: relative;
@@ -39,12 +39,13 @@ body {
     align-items: center;
     justify-content: space-between;
     background-color: #fff;
-    border-radius: 10px;
+    border-radius: 5px;
     margin-bottom: 20px;
     display: flex;
     visibility: hidden;
     opacity: 0;
     transition: visibility 0s, opacity 0.5s linear;
+    border: 1px solid lightgray;
 }
 
 .textBalloon:last-of-type {
@@ -72,7 +73,7 @@ body {
     padding-right: 20px;
     box-shadow: 0 0 5px #333;
     border-radius: 0 0 0 5px;
-    background-color: #decabe;
+    background-color: #ffff6e;
 }
 
 .overviewContainer div {
@@ -84,6 +85,7 @@ body {
 .overviewContainer ul li {
     list-style-type: none;
     margin-bottom: 10px;
+
 }
 
 .overviewContainer ul li span {
@@ -205,6 +207,12 @@ body {
 
 .touchControls {
     display: flex;
+    align-items: center;
+    margin-left: -30px;
+}
+
+.touchControls h3 {
+    margin-right: 30px;
 }
 
 .touchControls img {
@@ -278,7 +286,6 @@ body {
     .touchControls img {
         width: 30px;
         height: 30px;
-        margin-right: 10px;
     }
     .mobileOverview {
         display: block;
@@ -289,7 +296,7 @@ body {
         height: 100vh;
         transform: translateY(200vh);
         transition: transform 1s;
-        background-color: #decabe;
+        background-color: #ffff88;
     }
     .mobileOverview .podcastInfo {
         display: flex;
@@ -322,6 +329,10 @@ body {
     }
     .mobileOverview ul li {
         list-style-type: none;
+        margin-bottom: 10px;
+    }
+    .mobileOverview ul li span {
+        text-decoration: underline;
     }
     .showPodcast {
         display: block;
