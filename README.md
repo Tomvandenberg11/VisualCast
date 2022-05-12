@@ -17,7 +17,7 @@ Het concept is [hier](https://tomvandenberg11.github.io/VisualCast/ "VisualCast"
 - [Exclusive design principles ⚠️](#exclusive-design-principles-%EF%B8%8F)
 - [Testen 🧪](#testen-)
 - [Uiteindelijke concept 💡](#uiteindelijke-concept-)
-- [Bronnen ℹ️](#bronnen-)
+- [Bronnen ℹ️](#bronnen-ℹ%EF%B8%8F)
 - [Licence 👨🏻‍⚖️](#licence-%EF%B8%8F)
 - [Credits 📣](#credits-)
 
